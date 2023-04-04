@@ -1,0 +1,45 @@
+## agregar origen del repositorio en git bash
+git remote add origin  https://bbarinas@bitbucket.org/Rb_jcamacho/cobrosapp.git 
+
+
+## status (estado de los archivos a cargar)
+git status  
+
+## actualizar todos los archivos   
+git add .
+
+## actualizar un archivo en especifico
+git add <filename>
+
+## hacer el ajuste al repositorio
+git push -u origin master 
+
+## Cambio de rama
+git checkout master
+
+## creacion del commit (Necesario para hacer el Push)
+git commit -m 'ajuste generacion BD desde models'
+
+# Generar un Push
+git push -u origin master
+
+# Actualizar el repositorio local al ultimo commit  
+git pull
+
+# para fusionar las ramas 
+git merge <branch>
+
+# revisar los cambios entre las ramas 
+git diff <source_branch> <target_branch>
+
+# reemplazar los cambios locales
+git checkout -- <filename>
+
+## interfaz del git  
+
+gitk
+
+
+### python 
+
+python manage.py inspectdb
