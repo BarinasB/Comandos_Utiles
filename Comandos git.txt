@@ -39,7 +39,7 @@ git checkout -- <filename>
 
 gitk
 
-
+(esta linea se debe mandar al comando python)
 ### python 
 
 python manage.py inspectdb
