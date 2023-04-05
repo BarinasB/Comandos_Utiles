@@ -1,0 +1,116 @@
+https://soporte.rbsas.co/open.php // creacion de tickets 
+
+
+https://tullaveplusqa2.rbsas.co/ //portal acceso
+
+
+https://docs.google.com/document/d/1nrXC-bAW5kQMu_2-wG3uKH8ACDJUhCf15bfWfXmWHBI/edit#heading=h.nmomv7chq5h5  // documentacion duplicidad 
+
+
+
+https://docs.google.com/document/d/1nrXC-bAW5kQMu_2-wG3uKH8ACDJUhCf15bfWfXmWHBI/edit#heading=h.nmomv7chq5h5 // duplicidad
+
+
+https://docs.google.com/document/d/1kmK-W85EvpQuUKYjhhk5fJxl5Xb-UFK5OzQ8Sod1_ag/edit //Proceso de desarrollo
+
+
+
+https://docs.google.com/spreadsheets/d/13sjyOu0LBe-OB931QJp8cWpZsyW9h-cuwtO_0toL5Vo/edit#gid=1881072561 
+// listado de pendientes
+
+
+tickets 
+
+https://soporte.rbsas.co/scp/
+https://soporte.rbsas.co/open.php
+
+
+maya de turnos
+
+https://docs.google.com/spreadsheets/d/1RxX9DHWd5Bf5P68urb2_CSJHpBA8K3Rw/edit#gid=430345334
+
+
+
+verify SAE 
+
+https://titan.rbsas.co:8443/verify_sae/login
+
+
+Consulta de expediciones 
+
+http://10.50.194.205/login/?next=/
+
+
+Bonita
+
+https://bonita.rbsas.co/bonita
+
+https://docs.google.com/spreadsheets/d/1hOVJN8lbhsE9u8_hUtsbcfms8X06FyY7CtuR9KeC0Jc/edit#gid=0 
+
+
+### gestion de cambios 
+
+https://docs.google.com/spreadsheets/d/120GsO2JWaJPO9BR3FlNBWMwql7Pjs14VMY5mqoRuxaA/edit#gid=142858569
+
+## 
+intranet 
+
+https://intranet.rbsas.co/ 
+contraseña: intbba2023
+ 
+### archivo guia
+https://docs.google.com/spreadsheets/d/1hOVJN8lbhsE9u8_hUtsbcfms8X06FyY7CtuR9KeC0Jc/edit#gid=1555325849 
+
+
+#### formulario de personalizacion 
+
+https://personalizacion.rbsas.co/login/?next=/ 
+contraseña:EN LA PAGINA 
+
+### 
+
+seguimiento de aplicaciones 
+
+https://docs.google.com/spreadsheets/d/1skRgmyn3z1ImVEU6zTwvTAWXNbEYo1taFF_bWyWB1-0/edit?copiedFromTrash#gid=2136444339
+
+## aplicaciones inventario vettica 
+
+https://docs.google.com/spreadsheets/d/1ONDEzJSiroiA8Rm7D_9p8jDfLsBOzG_1/edit#gid=746946116
+
+Recargos
+
+https://docs.google.com/spreadsheets/d/1noIz4nPpSec3TtAjmm5KqehMHy1eY-jZDdb4qdkkESY/edit#gid=1835648120
+
+fallo aplicativo mass
+https://docs.google.com/spreadsheets/d/1kws2fUzKNN0vAd_xS8SadFbtI9MEteygQR3jsCIIacc/edit#gid=0 
+
+
+
+ensayar FCS 
+http://10.50.98.21:81/jsp/smartafc/sysadmin/main/login/CheckLogin.jsp 
+
+
+documento tarjeta hibrida 
+
+https://docs.google.com/spreadsheets/d/1KU_TUvTUBT02_TSm61VZz_ysXOzY7aG9/edit?usp=sharing&ouid=117274073032696710344&rtpof=true&sd=true
+
+aplicaciones vettica
+
+https://docs.google.com/spreadsheets/d/1ONDEzJSiroiA8Rm7D_9p8jDfLsBOzG_1/edit#gid=746946116 
+
+
+pqrs 
+http://pqrws.rbsas.co/
+
+
+aplicaciones desarrollo
+
+https://docs.google.com/spreadsheets/d/1skRgmyn3z1ImVEU6zTwvTAWXNbEYo1taFF_bWyWB1-0/edit#gid=1881072561
+
+
+## revision disponibilidad tableros power BI 
+
+https://docs.google.com/spreadsheets/d/1kTU86KZ-IA0wYFWgJudETZEodz_c2NiQ4Xh9_lnoUvs/edit#gid=0
+
+
+
