@@ -1,0 +1,41 @@
+### crear aplicaciones 
+
+npx create-react-app my-app 
+
+### entrar en la aplicacion 
+
+cd  my-app  
+
+npm start 
+
+## utilizar F2 permite cambiar el nombre de una variable en todo el codigo 
+
+
+## para crear el projecto con yarn usando npm 
+
+npm create vite@latest
+npm install 
+npm run dev 
+
+### creacion proyect  
+yarn create vite
+
+yarn 
+
+yarn dev
+
+
+### 
+
+rafc = crea un funcion a exportar 
+
+
+### props(Propiedades) es para compartir como funciona un componente
+
+
+
+### instalar jest  
+yarn add --dev jest 
+
+## ensayar jest 
+jest test 
