@@ -1,0 +1,19 @@
+
+revisar procesos corriendo (para cuando una query se queda pegada) 
+
+SHOW PROCESSLIST;
+
+### agregar un index unico para eliminar repetidos
+ALTER IGNORE TABLE tmp_consulta_personasisben ADD UNIQUE INDEX(documen, tipodocumento_id);
+
+ALTER TABLE sisben_migracion.tmp_consulta_personasisben DROP INDEX documen;
+
+## agregar un campo a una tabla previamente creada
+ALTER TABLE employees ADD COLUMN first_name VARCHAR(100); 
+
+## contar registros repetidos de una tabla 
+SELECT *
+     FROM tmp_consulta_personasisben GROUP BY documen, tipodocumento_id HAVING COUNT(*) > 1;
+
+### validar registros con caracteres especiales
+delete from sisben_local3.consulta_personasisben  WHERE  documen REGEXP '[a-z!-/:-@[-`{-~-]'

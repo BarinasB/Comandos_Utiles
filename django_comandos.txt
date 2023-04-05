@@ -1,0 +1,51 @@
+### entrar en la carpeta de cmd  
+virtualenv -p python3 env ## crear el entorno virtual
+python -m venv env  ### crear el entorno virtual 
+
+### Activar el emtorno virtual   
+\env\Scripts y luego .\activate 
+
+## listado de complementos instalados
+pip list 
+
+## crear el proyeto 
+django-admin startproject card  
+
+## complementos 
+pip install mysqlclient 
+pip install xlwt 
+
+## hacer la migracion 
+python manage.py makemigrations
+python manage.py migrate
+
+## correr el servidor
+python manage.py runserver
+
+
+## instalar los complementos de un proyecto 
+pip install -r Requirements.txt 
+
+## crear el archivo requirements 
+python -m pip freeze > requirements.txt 
+
+## colocar la carpeta de imagenes en el proyecto (en archivo settings.py) 
+import os
+## arriba
+STATIC_DIR = os.path.join(BASE_DIR,'static')
+##
+STATICFILES_DIRS =[STATIC_DIR,]  
+
+
+## 
+
+python manage.py startapp sisben 
+
+
+
+on_delete=models.CASCADE
+
+
+### quitar las migraciones en models
+python manage.py migrate --fake core zero
+
