@@ -49,3 +49,7 @@ on_delete=models.CASCADE
 ### quitar las migraciones en models
 python manage.py migrate --fake core zero
 
+
+### inspeccionar el models de la bd 
+python manage.py inspectdb
+
