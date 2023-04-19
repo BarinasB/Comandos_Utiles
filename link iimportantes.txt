@@ -124,3 +124,9 @@ https://helpdesk.rbsas.co/otrs/index.pl
 
 https://recaudobogota.buk.co/users/sign_in
 
+### Usuario OTRS 
+
+User:  bbarinas
+Password: Otrs123456
+
+

@@ -43,3 +43,9 @@ gitk
 ### python 
 
 python manage.py inspectdb
+
+
+regresar al ultimo commit de la rama
+git reset --hard
+
+
