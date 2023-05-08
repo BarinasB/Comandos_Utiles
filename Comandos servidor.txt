@@ -1,0 +1,31 @@
+credenciales servidor nuevo 
+
+Máquina Ambiente Desarrollo
+Nombre Dev-intrb
+ID instancia i-0bffbcf01472c0afd
+IP privada 10.27.1.101
+IP pública 34.221.18.52
+Usuario desarrollorb
+Contraseña D3s4rr0ll0*2022
+Llave SK-dev-intrb-desarrollo.pem 
+
+#####
+
+
+para guardar
+esc :wq
+
+
+
+ingresar al entorno virtual
+
+source ~/.virtualenvs/env-microdomains/bin/activate    
+
+
+
+uwsgi --emperor ~/.virtualenvs/env-microdomains/vassals --uid www-data --gid www-data
+
+
+tail -100 uwsgi-emperor.log tail -100 uwsgi-emperor.log
+
+
