@@ -12,6 +12,8 @@ Llave SK-dev-intrb-desarrollo.pem
 #####
 
 
+sudo vim
+
 para guardar
 esc :wq
 
@@ -26,6 +28,8 @@ source ~/.virtualenvs/env-microdomains/bin/activate
 uwsgi --emperor ~/.virtualenvs/env-microdomains/vassals --uid www-data --gid www-data
 
 
-tail -100 uwsgi-emperor.log tail -100 uwsgi-emperor.log
+tail -100 uwsgi-emperor.log 
+
+
 
 

@@ -16,4 +16,13 @@ SELECT *
      FROM tmp_consulta_personasisben GROUP BY documen, tipodocumento_id HAVING COUNT(*) > 1;
 
 ### validar registros con caracteres especiales
-delete from sisben_local3.consulta_personasisben  WHERE  documen REGEXP '[a-z!-/:-@[-`{-~-]'
+delete from sisben_local3.consulta_personasisben  WHERE  documen REGEXP '[a-z!-/:-@[-`{-~-]' 
+
+
+# pagina para validar ejecucion de comandos SQL
+
+https://www.w3schools.com/mysql/mysql_create_table.asp 
+
+# pagina enviar parametros en la consulta
+
+https://uniwebsidad.com/libros/python/capitulo-12/conectarse-a-la-base-de-datos-y-ejecutar-consultas
