@@ -51,5 +51,7 @@ python manage.py migrate --fake core zero
 
 
 ### inspeccionar el models de la bd 
-python manage.py inspectdb
+python manage.py inspectdb 
+
+python manage.py createsuperuser
 
