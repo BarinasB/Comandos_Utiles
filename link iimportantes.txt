@@ -129,7 +129,21 @@ https://recaudobogota.buk.co/users/sign_in
 User:  bbarinas
 Password: Otrs123456
 
+https://znuny.rbsas.co/otrs/index.pl
 
-Trasmilenio:Av. Eldorado No. 69 - 76 Edificio Elemento ,Torre1, Piso 2.
-Bogotá D.C. (Colombia)
+
+
+verificar si funciona el backend de recargas digitales 
+
+http://172.30.1.55/api/availability/?serviceAccount=0000022152
+
+
+## clave pruebas recobros
+
+usuario : bbarinas
+usuario : jcamacho
+Qwerty666*:
+
+usuario:adminrecobros
+clave: 12345678
 

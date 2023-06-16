@@ -18,27 +18,26 @@ para guardar
 esc :wq
 
 
+
 ingresar al entorno virtual
 
 source ~/.virtualenvs/env-microdomains/bin/activate    
 
 
-iniciar el servicio
+
 uwsgi --emperor ~/.virtualenvs/env-microdomains/vassals --uid www-data --gid www-data
 
-visualizar el log de errores
+
 tail -100 uwsgi-emperor.log 
 
-copiar carpeta en un lugar
 
-copiar sudo cp -R /carpeta / ruta destino/
-
-sqlite
-____________________________
-
-sqlite3
-.open db.sqlite3
-.databases
-.tables
+BD servidor 
+--------------------------
+*copiar sudo cp -R /carpeta / ruta destino/
 
 
+lynx 127.0.0.1:8000
+
+mostrar los puertos ocupados
+
+netstat -punta | grep LISTEN
