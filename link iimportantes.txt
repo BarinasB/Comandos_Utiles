@@ -142,8 +142,25 @@ http://172.30.1.55/api/availability/?serviceAccount=0000022152
 
 usuario : bbarinas
 usuario : jcamacho
-Qwerty666*:
+Qwerty666*: 
+
+bhorta
+J@cob271219
+
 
 usuario:adminrecobros
 clave: 12345678
 
+
+malla conectividad
+
+https://docs.google.com/spreadsheets/d/1936yS-n8H-8SB7GvQz5j5w4akfCuGiVPoxNy0QghRG0/edit?pli=1#gid=384004523
+
+
+informes titan
+https://docs.google.com/spreadsheets/d/1u2BGpinOwwOTdSmLkyCygQwOZvkxQx0kK5LRwc1Qggk/edit?usp=sharing 
+
+https://titan.rbsas.co/Reports/Pages/Folder.aspx
+
+validar cheksum
+https://appdevtools.com/checksum-calculator

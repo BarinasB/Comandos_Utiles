@@ -23,9 +23,17 @@ ingresar al entorno virtual
 
 source ~/.virtualenvs/env-microdomains/bin/activate    
 
+source ~/.virtualenvs/env-discapacidad/bin/activate  
+
+source ~/.virtualenvs/env-sisben/bin/activate      
 
 
+### correr sisben
 uwsgi --emperor ~/.virtualenvs/env-microdomains/vassals --uid www-data --gid www-data
+
+uwsgi --emperor ~/.virtualenvs/env-discapacidad/vassals --uid www-data --gid www-data
+
+uwsgi --emperor ~/.virtualenvs/env-sisben/vassals --uid www-data --gid www-data
 
 
 tail -100 uwsgi-emperor.log 
@@ -41,3 +49,16 @@ lynx 127.0.0.1:8000
 mostrar los puertos ocupados
 
 netstat -punta | grep LISTEN
+
+
+
+## link de comangos ngnix   
+
+https://extassisnetwork.com/tutoriales/comandos-de-nginx/
+
+
+
+
+
+
+
